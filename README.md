@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Gospelkick Store's Web Developer App
 
-## Getting Started
+This is my submission to Gospelkick Store's Web Developer App take home test (aka project, challenge or assignment). 
 
-First, run the development server:
+## Table of contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### The Challenge/User Stories
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Create a website quickly and launch it using GitHub. The website should have a navbar that holds the logo and a search engine. The body of the website should contain 3 cards named "meat," "rice," and "drink." Make the search engine responsive so that when a visitor searches for any of the cards, the relevant one pops up. 
 
-## Learn More
+### Screenshot
 
-To learn more about Next.js, take a look at the following resources:
+![](/public/images/screenshot-desktop.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Links
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Solution URL: [https://github.com/traez/gospelkick-web-developer-app](https://github.com/traez/gospelkick-web-developer-app)
+- Live Site URL: [https://gospelkick-web-developer-app.vercel.app](https://gospelkick-web-developer-app.vercel.app)
 
-## Deploy on Vercel
+## My process
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Built with
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Semantic HTML5 markup 
+- CSS custom properties 
+- Flexbox 
+- CSS Grid 
+- Mobile-first workflow 
+- [React](https://reactjs.org/) - JS library 
+- [Next.js](https://nextjs.org/) - React framework  
+- Tailwind CSS  
+- Typescript 
+- Nodejs
+- Expressjs
+- MongoDB
+- GraphQL
+
+### What I learned
+
+- Too easy! Very light refresher work though ...to keep the brain sharp.
+
+### Continued development
+
+- Keep coding everyday and increasing competency!
+
+### Useful resources
+
+Stackoverflow  
+YouTube  
+Google  
+ChatGPT
+
+## Author
+
+- Website - [Trae Zeeofor](https://github.com/traez)
+- Twitter - [@trae_z](https://twitter.com/trae_z)
+
+## Acknowledgments
+ 
+-Jehovah that keeps breath in my lungs 
